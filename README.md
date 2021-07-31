@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wilsonreategui
 - 👀 I’m interested in Videogames and Web Development
-- 🌱 I’m currently learning C# and Scurm
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Programming Projects
 - 📫 How to reach me: Instagram: @wilsonreategui
 
